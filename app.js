@@ -4,3 +4,4 @@ $('#addTodo').click(function(){
 })
 
 let i=0;
+let b=1;
